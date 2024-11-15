@@ -1,4 +1,7 @@
 ## Ex.No:4 Feature Scaling and Selection
+### Date : 
+### Name : Bala R
+### Reg No : 212222220007
 ## AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
